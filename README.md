@@ -41,7 +41,7 @@
 
 ![TPS](Images/tieres.JPG)
 
-![TBS](Images/tiere2.JPG)
+![TBS2](Images/tiere2.JPG)
 
 > ## Deferred Equity Plan:
 >
