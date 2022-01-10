@@ -40,6 +40,7 @@
 >   You can now test the contract by depositing various Ether values (greater than 100 wei). Note: The balance function should always remain 0, no Ethereum should be stored in the contract. All Ethereum Should be distributed.
 
 ![TPS](Images/tieres.JPG)
+
 ![TBS](Images/tiere2.JPG)
 
 > ## Deferred Equity Plan:
