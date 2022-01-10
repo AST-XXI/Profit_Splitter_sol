@@ -25,8 +25,8 @@
 >
 >   You will need to fill in the constructor parameters with the designated employee addresses. You are now ready to utilize and test the deposit function!
 
-![ALE](Images/AssociateProfitSplitter.jpg)
-![ALE2](Images/AssociateProfitSplitter2.jpg)
+![ALE](Images/AssociateProfitSplitter.JPG)
+![ALE2](Images/AssociateProfitSplitter2.JPG)
 
 > ## Tiered Profit Splitter:
 >
