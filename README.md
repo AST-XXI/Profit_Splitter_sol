@@ -25,8 +25,8 @@
 >
 >   You will need to fill in the constructor parameters with the designated employee addresses. You are now ready to utilize and test the deposit function!
 
-![ALE](Images/AssociateProfitSplitter.JPG)
-![ALE2](Images/AssociateProfitSplitter2.JPG)
+![ALE](Images/AssociateProfitSplitter.jpg)
+![ALE2](Images/AssociateProfitSplitter2.jpg)
 
 > ## Tiered Profit Splitter:
 >
@@ -39,9 +39,9 @@
 >
 >   You can now test the contract by depositing various Ether values (greater than 100 wei). Note: The balance function should always remain 0, no Ethereum should be stored in the contract. All Ethereum Should be distributed.
 
-![TPS](Images/tieres.JPG)
+![TPS](Images/tieres.jpg)
 
-![TBS2](Images/tiere2.JPG)
+![TBS2](Images/tiere2.jpg)
 
 > ## Deferred Equity Plan:
 >
