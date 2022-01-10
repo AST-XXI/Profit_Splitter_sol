@@ -1,0 +1,88 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "fallback",
+				"outputs": [],
+				"payable": true,
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "balance",
+				"outputs": [
+					{
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"payable": true,
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"name": "_one",
+						"type": "address"
+					},
+					{
+						"name": "_two",
+						"type": "address"
+					},
+					{
+						"name": "_three",
+						"type": "address"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ProfitSplitter/AssociateProfitSplitter.sol": "AssociateProfitSplitter"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ProfitSplitter/AssociateProfitSplitter.sol": {
+			"keccak256": "0x2975f69b4c51fae082684ee22cbc43e06af9679b8dae0868da4e8e55558af92a",
+			"urls": [
+				"bzzr://0131a85939cceaf435b3ca28b381efd6ec5f59132771d609f507d93fb6030d39"
+			]
+		}
+	},
+	"version": 1
+}

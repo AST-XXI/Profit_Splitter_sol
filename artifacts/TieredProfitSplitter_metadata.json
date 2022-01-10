@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "balance",
+				"outputs": [
+					{
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"payable": true,
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"name": "_one",
+						"type": "address"
+					},
+					{
+						"name": "_two",
+						"type": "address"
+					},
+					{
+						"name": "_three",
+						"type": "address"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"payable": true,
+				"stateMutability": "payable",
+				"type": "fallback"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ProfitSplitter/TieredProfitSplitter.sol": "TieredProfitSplitter"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ProfitSplitter/TieredProfitSplitter.sol": {
+			"keccak256": "0xf003f8775297b4dc2f20ce2b1077b9b51ff3b56f730a5f10f233f8f9d09f59aa",
+			"urls": [
+				"bzzr://494f0f57eade1a242ffcfdca1ef444d8e106890698dbf7be6ea42162f5be852d"
+			]
+		}
+	},
+	"version": 1
+}
